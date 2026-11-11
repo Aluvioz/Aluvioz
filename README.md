@@ -77,18 +77,6 @@ Estudos práticos envolvendo a criação de fluxos de automação e agentes de I
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aluvioz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aluvioz&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aluvioz&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
----
 
 ## Histórico de contribuições
 
